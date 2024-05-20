@@ -18,7 +18,7 @@ export const PRODUCTS = [
     },
     {
         id: 2,
-        productName: "PlayStation 5",
+        productName: "Jesus is Alive Custom made White T-shirt",
         price: 999.99,
         productImage: Product2,
     },
